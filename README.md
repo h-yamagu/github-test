@@ -12,6 +12,5 @@
 
 [jump](#section1)
 
-# <a name="section1/sub"> アンカーリンク2
+### aaa/bbbb
 
-[jump](#section1/sub)
