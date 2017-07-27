@@ -25,3 +25,10 @@ Table of contents
   
 ## test aaa
 ## test bbb
+
+Table of contents
+  * [test aaa](#1-test-aaa)
+  * [test bbb](#1-test-bbb)
+  
+## 1. test aaa
+## 1. test bbb
